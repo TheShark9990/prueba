@@ -10,7 +10,7 @@ Hola, este es mi primer archivo **markdown**.
 - También se pueden poner *itálicas* con un solo asterísco.
 - Y también itálicas y negritas a la vez, usando ***tres asteríscos***.
 
-## Para poner imágnese y enlaces:
+## Para poner imágenes y enlaces:
 Usar la exclamación, corchetes y paréntesis:
 ![texto](http://google.es)
 
