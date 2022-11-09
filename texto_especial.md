@@ -1,3 +1,5 @@
+Soy Fabián Isaiu
+
 Hola, este es mi primer archivo **markdown**.
 
 # Los títulos se ponen con # y un espacio.
@@ -8,6 +10,7 @@ Hola, este es mi primer archivo **markdown**.
 - Puedo hacer listas de más niveles:  
   - Basta con poner espacios delante
 - También se pueden poner *itálicas* con un solo asterísco.
+- Las negritas se pone con **dos asteriscos**.
 - Y también itálicas y negritas a la vez, usando ***tres asteríscos***.
 
 ## Para poner imágenes y enlaces:
